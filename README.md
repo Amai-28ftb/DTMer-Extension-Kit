@@ -70,4 +70,4 @@ AviUtl 無印で配布されていた akkadaska氏の [aviutlScripts](https://gi
 
 
 ## あとがき
-Pull Requestする場合はTwitterかDiscordのDMに一報頂ければ多分通します。
+
