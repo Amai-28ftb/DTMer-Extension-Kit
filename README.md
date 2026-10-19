@@ -2,6 +2,12 @@
 音声ファイルを読み込んで色々できるやつです
 
 
+AviUtl 無印で配布されていた akkadaska氏の [aviutlScripts](https://github.com/akkadaska/aviutlScripts) を参考にさせていただいております。
+上記の Script は README と配布ページより「自由に利用、改変、再配布可能」と記載されてる事を確認済みです。
+
+
+
+
 ## 配布先について
 - [Github](https://github.com/Amai-28ftb/DTMer-Extension-Kit)：多分ここです。
 
