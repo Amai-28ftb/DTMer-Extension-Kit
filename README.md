@@ -1,5 +1,6 @@
 ## 説明
 音声ファイルを読み込んで色々できるやつです
+詳しい使い方は [Notion](https://bitl.to/68NC) を読んでください
 
 
 AviUtl 無印で配布されていた akkadaska氏の [aviutlScripts](https://github.com/akkadaska/aviutlScripts) を参考にさせていただいております。
