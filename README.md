@@ -1,7 +1,6 @@
 ## 説明
-https://youtu.be/MwDbT2x9wO0
-音声ファイルを読み込んで色々できるやつです
-詳しい使い方は [Notion](https://bitl.to/68NC) を読んでください
+- 音声ファイルを読み込んで色々できるやつです
+- 詳しい使い方は [Notion](https://bitl.to/68NC) を読んでください
 
 
 AviUtl 無印で配布されていた akkadaska氏の [aviutlScripts](https://github.com/akkadaska/aviutlScripts) を参考にさせていただいております。
@@ -22,7 +21,7 @@ AviUtl 無印で配布されていた akkadaska氏の [aviutlScripts](https://gi
 
 ## 使用方法
 - カスタムオブジェクト、アニメーション効果、トラックバーから呼び出してください。
-- 詳細な説明は Notion をご覧ください（工事中）。
+- 詳細な説明は [Notion](https://bitl.to/68NC) をご覧ください（工事中）。
 
 ## 内容物
 ### @DTMer Extension Kit.obj2
