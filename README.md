@@ -1,4 +1,5 @@
 ## 説明
+https://youtu.be/MwDbT2x9wO0
 音声ファイルを読み込んで色々できるやつです
 詳しい使い方は [Notion](https://bitl.to/68NC) を読んでください
 
